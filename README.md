@@ -24,10 +24,10 @@ This repository contains a Power BI dashboard project built as part of a Udemy c
 
 Here are some screenshots of the AdventureWorks Power BI dashboard:
 
-### Dashboard Overview
-(Screenhot1.png.png)
-(Screenhot2.png.png)
-(Screenhot3.png.png)
+
+![Screenshot 1](./images/Screenshot1.png)
+![Screenshot 2](./images/Screenshot2.png)
+![Screenshot 3](./images/Screenshot3.png)
 
 To review the dashboard here is the link: https://app.powerbi.com/groups/me/reports/3a97aa8c-2abf-479f-b1cf-f4f83781ef84/ReportSection?experience=power-bi 😊
 
